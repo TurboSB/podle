@@ -1689,7 +1689,7 @@ this.podle = this.podle || {}, this.podle.bundle = function(e) {
 													break;
 												case Oa:
 													a = function(e) {
-														return e ? "⬛" : "⬜"
+														return e ? "⬛" : "⬛"
 													}(r)
 											}
 											d += a
